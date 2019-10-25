@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "listing.dtd">
+<rss version="2.0">
+<listings>
+  <listing>
+    <price>Free</price>
+    <heading>Exploring Logos</heading>
+    <body>
+      Use this 60-minute self-led exploration of LOGOS on your own or with a group of interested leaders from your church. You'll discover the significant benefits of a LOGOS ministry for your church. You can also find this resource on our LOGOS Getting Started page. A link to this resource will be sent to the e-mail address on the order once the order process is complete.
+    </body>
+    <image>
+      <description></description>
+      <height>250px</height>
+      <width>100px</width>
+      <link>https://www.genonministries.org/collections/all-resources</link>
+      <title>ExploringLogosLogo</title>
+      <url>https://cdn.shopify.com/s/files/1/0177/8392/products/Genon_symbols_5.0a_small_2_grande_3e67b38b-b2d6-4cdf-9c4b-0e7f444552ab_large.jpg?v=1533142646</url>
+    </image>
+    <type>Informational</type>
+  </listing>
+  <listing>
+    <price>21.85</price>
+    <heading>Discipline with Love</heading>
+    <body>
+      Explains the theology behind Christian discipline and how to create an effective discipline plan for the whole church. Includes sample discipline policies and tools for behavior management.
+    </body>
+    <image>
+      <description>Logotoolkit</description>
+      <height>250px</height>
+      <width>250px</width>
+      <link>https://www.genonministries.org/collections/all-resources</link>
+      <title>Discipline with love</title>
+      <url>https://cdn.shopify.com/s/files/1/0177/8392/products/ToolkitFACoversFA_Discipline_with_Love_small_large.jpg?v=1490306366</url>
+    </image>
+    <type>course resource</type>
+  </listing>
+  <listing>
+    <price>0.55</price>
+    <heading>Child of God Button</heading>
+    <body>
+      We love this slogan that has been true since our beginning and is still true today - You are a child of God. I will treat you that way! Buy them for children, youth, everyone in your church! Buy one to wear and one to share! Who doesn't need to be reminded that we are all children of God!
+    </body>
+    <image>
+      <description>front and back of button</description>
+      <height>250px</height>
+      <width>250px</width>
+      <title>buttonImage</title>
+      <link>https://www.genonministries.org/collections/all-resources</link>
+      <url>https://cdn.shopify.com/s/files/1/0177/8392/products/child_of_god_button_225_button_v2_grande.jpg?v=1502390970</url>
+    </image>
+    <type>buton</type>
+  </listing>
+</listings>
+</rss>

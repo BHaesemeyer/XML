@@ -1,14 +1,16 @@
-<!DOCTYPE listing
+<!DOCTYPE listings
 [
-<!ELEMENT listing (price, heading, body, image)>
+<!ELEMENT> listings (listing+)>
+<!ELEMENT listing (price, heading, body, image, type)>
 <!ELEMENT price (#PCDATA)>
 <!ELEMENT heading (#PCDATA)>
 <!ELEMENT body (#PCDATA)>
-<!ELEMENT image (description, height, width, title, url)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT image (description, height, width, link, title, url)>
 <!ELEMENT description (#PCDATA)>
 <!ELEMENT height (#PCDATA)>
 <!ELEMENT width (#PCDATA)>
-
+<!ELEMENT link (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT url (#PCDATA)>
 ]>
